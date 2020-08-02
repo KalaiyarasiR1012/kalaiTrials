@@ -1,0 +1,7 @@
+class remoterepo{
+
+public static void main( sting [] args){
+
+system.out.println("kalai is very clever");
+}
+}
